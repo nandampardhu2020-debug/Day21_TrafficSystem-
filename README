@@ -1,0 +1,2 @@
+This program is a Smart City Traffic Monitoring System that processes up to 30 vehicles using numeric data.
+It checks each vehicle for speed violations, lane violations, and counts traffic density using arrays and function
